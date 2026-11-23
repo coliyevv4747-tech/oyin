@@ -1,0 +1,6 @@
+{
+  "name": "ZENTRO GAMES",
+  "description": "ZENTRO GAMES — barcha yosh toifalari uchun 20+ real 3D poyga, sarguzasht, sport va mantiqiy o'yinlarni o'z ichiga olgan zamonaviy onlayn o'yin platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
